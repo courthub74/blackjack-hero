@@ -1,5 +1,5 @@
 # blackjack-hero
- 1 player | 2 player | 2 player online blackjack website pushed to heroku
+ 1 player | 2 player | 2 player online | FLASK blackjack website pushed to heroku
 
 ## Need to do's
 * ~~clean up the Home Page~~
