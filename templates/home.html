@@ -1,0 +1,161 @@
+{%extends 'base.html'%}
+
+{% block title %}
+
+	Welcome to Blackjack
+
+{% endblock %}
+
+	
+
+{% block content %}
+
+
+
+<style>
+    p {
+      font-family: Arial;
+    }
+
+    body {
+    	background: url('https://www.jakpost.travel/imgfiles/full/92/920356/blackjack-wallpaper.jpg') center;
+    }
+
+	.bold {
+  		font-weight: bold;
+	}
+
+	#singled {
+		text-transform: capitalize; 
+	}  
+
+	.center {
+		text-align: center;
+	}
+
+	.white {
+		color: azure;
+		font-weight: 700;
+		font-size: 50px;
+	}
+
+	.margin {
+		margin-top: 12px;
+	}
+
+	.back {
+		background-color: #065500;
+	    margin-top: 12px;
+	    border: 3px solid #eee;
+	    border-radius: 14px;
+	    padding: 7px 15px;
+	    text-shadow: 1px 1px 1px #333;
+	}
+
+	.story {
+		background-color: #065500;
+		font-size: 25px;
+		font-weight: 400;
+		color: azure;
+		margin-top: 12px;
+	    border: 3px solid #eee;
+	    border-radius: 14px;
+	    padding: 7px 15px;
+	    text-shadow: 1px 1px 1px #333;
+	}
+
+	.button {
+		background-color: #A9A9A9;
+	    margin-top: 12px;
+	    border: 3px solid #eee;
+	    border-radius: 14px;
+	    padding: 7px 15px;
+	    text-shadow: 1px 1px 1px #333;
+	    
+
+	}
+
+	.button2 {
+		background-color: #A9A9A9;
+		margin-top: 12px;
+	    border: 3px solid #eee;
+	    border-radius: 14px;
+	    padding: 7px 15px;
+	    text-shadow: 1px 1px 1px #333;
+	    
+	}
+
+	.button3 {
+		background-color: #87CEFA;
+		margin-top: 12px;
+	    border: 3px solid #eee;
+	    border-radius: 14px;
+	    padding: 7px 15px;
+	    text-shadow: 1px 1px 1px #333;
+	    
+	}
+
+	.size {
+		height: 250px;
+		width: 25%;
+	}
+
+
+	.midbutton {
+		display: block;
+		width: 50%;
+		text-align: center;
+		margin: auto;
+	}
+  </style>
+
+
+
+
+
+<body>
+
+<br><br><br>
+
+	<div class="container center">
+		
+	
+		<h1 class="back white margin">Welcome to Blackjack</h1>
+		<!--<img src="{{ url_for('static', filename='cover/blackjack.jpg') }}">-->
+		
+
+	<br><br>
+
+			<div class="midbutton">
+				<button type="button" class="btn btn-light mr-2 btn-lg btn-block bold button"><a href="{{url_for('one') }}">1 Player</a></button>
+			
+
+			
+				<button type="button" class="btn btn-light mr-2 btn-lg btn-block bold back button2"><a href="{{url_for('two') }}">2 Players in Same Room</a></button>
+			
+
+			
+				<button type="button" class="btn btn-light mr-2 btn-lg btn-block bold back button3" id="singled"><a href="{{url_for('online') }}">2 Player your friend Online</a></button>
+			</div>
+
+
+				<br><br>
+
+				<div class="container story margin back">
+					<img class="size" src="static/cover/cards3.png">
+						<p>Blackjack is a card game that pits player versus dealer. It is played with one or more decks of cards. Cards are counted as their respective numbers, face cards as ten, and ace as either eleven or one (in our game it will show on the counter as an 11 unless you are over 21). The object of Blackjack is the beat the dealer. This can be accomplished by getting Blackjack (first two cards equal 21) without dealer Blackjack, having your final card count be higher than the dealers without exceeding 21, or by not exceeding 21 and dealer busting by exceeding their card count of 21.
+	                    <br><br>
+						In Blackjack, or 21, the player must decide what to bet before the hand. Click the chips to add them to your bet. Click the chip again to remove it back to your pile of money. Once you click "deal" your bet is set, and two cards are dealt to the player face up and two cards are dealt to the dealer, one face up and one face down. You must then decide if you will "hit" (take another card from the deck), "stay" (keep the hand you are dealt), or "double" (you double your bet and are given only one more card). If the dealer has an Ace showing, you can click the "Insurance" button (this means you will place a bet worth half your hand bet, which will be paid out if the dealer has Blackjack but will be taken if the dealer does not).</p>
+
+				</div>
+							
+						
+	
+	</div>
+
+
+</body>
+
+
+{% endblock %}
+

@@ -1,0 +1,91 @@
+{%extends 'base.html'%}
+
+
+{% block content %} <!--Portal for the block content for the other pages to come through-->
+	
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+	    <!--THE LINKS-->
+	    
+	    <link rel="stylesheet" href="static/css/styleone.css">
+	    <link rel="stylesheet" href="static/js/scriptone.js">
+
+	    <!--TITLE TAB-->
+		<title>ONE Player Blackjack</title>
+
+	</head>
+
+
+	<body>
+
+		<!--BLACKJACK TABLE-->
+
+		<div class="container-5" style="width: 100%">
+			
+				<!--HEADER-->
+				<div class="flex-blackjack-header">
+					<h2>One Player Blackjack</h2>
+					<h3><span id="blackjack-result">Let's Play</span></h3>
+				</div>
+
+				<!--You:-->
+
+			<div class="flex-blackjack-row-1" style="height: 500px; background: url('https://mk0gamesnetentcxytko.kinstacdn.com/wp-content/uploads/2018/09/blackjack_background.jpg') center;">
+				<div id="your-box" style="height: 470px;">
+					<h2>You: <span id="your-blackjack-result">0</span></h2> <!--Span allows editing access from the zero apart from the You:-->
+				</div>
+				
+
+
+				  <!--Dealer:-->
+		        <div id="dealer-box" style="height: 470px;">
+	                <h2>Dealer: <span id="dealer-blackjack-result">0</span></h2>
+		        </div>
+	   	 	</div> <!--Closes the You and Dealer div-->
+
+
+
+   	 		<!--Buttons Row-->
+            <div class="flex-blackjack-row-2" style="background: url('https://mk0gamesnetentcxytko.kinstacdn.com/wp-content/uploads/2018/09/blackjack_background.jpg') center;">
+                <div>
+                    <button class="btn-lg btn-primary mr-2" id="blackjack-hit-button">Hit</button> <!--mr is MARGIN gives a little breathing room-->
+                    <button class="btn-lg btn-warning mr-2" id="blackjack-stand-button">Stand</button>
+                    <button class="btn-lg btn-danger mr-2" id="blackjack-deal-button">Deal</button>
+                </div>
+            </div>
+
+
+
+
+              <div class="flex-blackjack-row-3" style="height: 500px;">
+                    <table>
+                        <tr style="height: 70px;">
+                            <th>Wins</th>
+                            <th>Losses</th>
+                            <th>Draws</th>
+                        </tr>
+        
+                        <tr style="height: 70px;">
+                            <td span id="wins">0</td>
+                            <td span id="losses">0</td>
+                            <td span id="draws">0</td>
+                        </tr>
+                    </table>
+                </div>
+
+
+		</div><!--Grand Container Div-->
+
+
+		<script src="static/js/scriptone.js"></script>
+
+	</body>
+
+</html>
+
+{% endblock %}

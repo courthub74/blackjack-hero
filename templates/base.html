@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{% block title %} {% endblock %}</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" 
+	integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/cover.css') }}">
+	<link rel="stylesheet" href="static/css/styleone.css">
+</head>
+<body>
+
+	<nav class="navbar navbar-expand-lg navbar-light bg-secondary">
+	  <a class="navbar-brand" href="#">Courdevelops</a>
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	  </button>
+
+	  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+	    <ul class="navbar-nav mr-auto">
+
+	      <!--HEEEEEREEE-->
+	      <li class="nav-item active">
+	        <a class="nav-link mr-2" href="{{url_for('home') }}"><img style="width: 20px; height: 20px;" src="static/cover/home.png"><span class="sr-only">(current)</span></a>
+	      </li>
+
+
+	      <li class="nav-item">
+	        <a class="nav-link mr-2" href="{{url_for('one') }}"><img style="width: 20px; height: 20px;" src="static/cover/one.png">Player</a>
+	      </li>
+	     
+	       <li class="nav-item">
+	        <a class="nav-link mr-2" href="{{url_for('two') }}"><img style="width: 20px; height: 20px;" src="static/cover/twotable.jpg">Player</a>
+	      </li>
+
+	      <li class="nav-item">
+	        <a class="nav-link mr-2" href="{{url_for('online') }}"><img style="width: 20px; height: 20px;" src="static/cover/globe.png">Online</a>
+	      </li>
+	  
+	    </ul>
+	  </div>
+	</nav>
+
+	{% block content %} <!--Portal for the block content for the other pages to come through-->
+	{% endblock %}
+</body>
+</html>
