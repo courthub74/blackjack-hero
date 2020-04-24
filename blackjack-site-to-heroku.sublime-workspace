@@ -1,0 +1,816 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"scr",
+				"scriptone"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ran",
+				"randomCard"
+			],
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"deal",
+				"dealer-box"
+			],
+			[
+				"turn",
+				"turnsOver"
+			],
+			[
+				"ac",
+				"activePlayer"
+			],
+			[
+				"black",
+				"blackjackGame"
+			],
+			[
+				"get",
+				"get_address"
+			],
+			[
+				"db",
+				"db_from_env"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"SEC",
+				"SECRET_KEY"
+			],
+			[
+				"question",
+				"question_text"
+			],
+			[
+				"te",
+				"text-white"
+			],
+			[
+				"dro",
+				"dropdown-item"
+			],
+			[
+				"si",
+				"font-size\tproperty"
+			],
+			[
+				"nex",
+				"nextOppOutput"
+			],
+			[
+				"ou",
+				"outcomeOutput"
+			],
+			[
+				"last",
+				"lastGameOutput"
+			],
+			[
+				"yea",
+				"yearFormedOutput"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"bac",
+				"backend4"
+			],
+			[
+				"all",
+				"all_items"
+			],
+			[
+				"L",
+				"ListForm"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"p",
+				"printj"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"g",
+				"games"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"js",
+				"json_obj"
+			],
+			[
+				"colu",
+				"columnspan"
+			],
+			[
+				"va",
+				"var2"
+			],
+			[
+				"en",
+				"entry2"
+			],
+			[
+				"var",
+				"var2"
+			],
+			[
+				"bu",
+				"but2pic"
+			],
+			[
+				"b",
+				"but1pic"
+			],
+			[
+				"l",
+				"LabelOut"
+			],
+			[
+				"ho",
+				"hodl_func"
+			],
+			[
+				"ltc",
+				"ltcbuttpic"
+			],
+			[
+				"oNE",
+				"OneDrive"
+			],
+			[
+				"h",
+				"hodl"
+			],
+			[
+				"r",
+				"rsizltc"
+			],
+			[
+				"ri",
+				"RIGHT"
+			],
+			[
+				"com",
+				"compound"
+			],
+			[
+				"On",
+				"OneDrive"
+			],
+			[
+				"CON",
+				"config"
+			],
+			[
+				"B",
+				"button_4"
+			],
+			[
+				"BU",
+				"button_3"
+			],
+			[
+				"s",
+				"spacing1"
+			],
+			[
+				"the",
+				"theForecast"
+			],
+			[
+				"day2",
+				"day2name"
+			],
+			[
+				"day1",
+				"day1cast"
+			],
+			[
+				"eth",
+				"eths2"
+			],
+			[
+				"La",
+				"LabelOut"
+			],
+			[
+				"th",
+				"theLabel"
+			],
+			[
+				"bch",
+				"bch_button"
+			],
+			[
+				"x",
+				"xrp_button"
+			],
+			[
+				"but",
+				"button_2"
+			],
+			[
+				"C",
+				"CoinStartApp3"
+			],
+			[
+				"print",
+				"printName"
+			],
+			[
+				"button",
+				"button_1"
+			],
+			[
+				"prin",
+				"printName"
+			],
+			[
+				"btc",
+				"btc_func"
+			],
+			[
+				"co",
+				"coinentry"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"H",
+				"HAVE"
+			],
+			[
+				"up",
+				"upper"
+			],
+			[
+				"HODL",
+				"HODLing"
+			],
+			[
+				"curr",
+				"currently"
+			],
+			[
+				"res",
+				"resultcoin"
+			],
+			[
+				"e",
+				"ethm"
+			],
+			[
+				"m",
+				"mcap"
+			],
+			[
+				"c",
+				"cryptolive"
+			],
+			[
+				"price",
+				"prices"
+			],
+			[
+				"shor",
+				"short-desc"
+			],
+			[
+				"pe",
+				"period-name"
+			],
+			[
+				"wea",
+				"weather_stuff"
+			],
+			[
+				"w",
+				"weather_stuff"
+			],
+			[
+				"per",
+				"period-name"
+			],
+			[
+				"sho",
+				"short_description"
+			],
+			[
+				"tem",
+				"temperature"
+			],
+			[
+				"sh",
+				"short_description"
+			],
+			[
+				"class",
+				"class_"
+			],
+			[
+				"cl",
+				"class_"
+			],
+			[
+				"find",
+				"find_all"
+			],
+			[
+				"str",
+				"str_two"
+			],
+			[
+				"st",
+				"str_one"
+			],
+			[
+				"stri",
+				"string2"
+			],
+			[
+				"wor",
+				"wordy"
+			],
+			[
+				"n",
+				"nation"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"art",
+				"artnm"
+			],
+			[
+				"Pa",
+				"Painter"
+			],
+			[
+				"a",
+				"artnm"
+			],
+			[
+				"ch",
+				"chart_pos"
+			],
+			[
+				"pa",
+				"pass_wd"
+			],
+			[
+				"us",
+				"user_name"
+			],
+			[
+				"u",
+				"user_named"
+			],
+			[
+				"S",
+				"Speed"
+			],
+			[
+				"Se",
+				"Settlement"
+			],
+			[
+				"pr",
+				"prncryp"
+			],
+			[
+				"col",
+				"colstring"
+			],
+			[
+				"wh",
+				"whi_loop"
+			],
+			[
+				"rev",
+				"rev_bk"
+			],
+			[
+				"predi",
+				"prediction"
+			],
+			[
+				"resu",
+				"resultxrp"
+			],
+			[
+				"is",
+				"is_even"
+			],
+			[
+				"div",
+				"div42"
+			],
+			[
+				"di",
+				"divBy"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"gues",
+				"guess3"
+			],
+			[
+				"ad",
+				"add_two"
+			],
+			[
+				"num",
+				"num_again"
+			],
+			[
+				"an",
+				"animal_crackers"
+			],
+			[
+				"less",
+				"lesser_num"
+			],
+			[
+				"le",
+				"lesser_num"
+			],
+			[
+				"in",
+				"int2"
+			],
+			[
+				"pi",
+				"pig_word"
+			],
+			[
+				"pre",
+				"predictions"
+			],
+			[
+				"dictiona",
+				"dictionaries"
+			],
+			[
+				"lis",
+				"list4"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build With: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/GitHub/blackjackhero"
+	],
+	"file_history":
+	[
+		"/C/GitHub/blackjackhero/.gitignore",
+		"/C/GitHub/blackjackhero/runtime.txt",
+		"/C/GitHub/blackjackhero/Procfile",
+		"/C/GitHub/blackjackheroku/Procfile",
+		"/C/GitHub/blackjackheroku/.gitignore",
+		"/C/GitHub/blackjackheroku/templates/twoplayer.html",
+		"/C/GitHub/blackjackheroku/templates/oneplayer.html",
+		"/C/GitHub/blackjackheroku/app.py",
+		"/C/GitHub/blackjackheroku/templates/base.html",
+		"/C/GitHub/blackjackheroku/templates/home.html",
+		"/C/GitHub/blackjack3/templates/comingsoon.html",
+		"/C/GitHub/blackjack3/static/cover/globe.png",
+		"/C/GitHub/blackjack3/static/cover/home.png",
+		"/C/GitHub/blackjack3/static/cover/courdevs logo.png",
+		"/C/GitHub/blackjack3/static/css/styleone.css",
+		"/C/GitHub/blackjack3/static/css/cover.css",
+		"/C/GitHub/blackjack3/static/cover.css",
+		"/C/GitHub/blackjack3/templates/oneplayer.html",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/JAVASCRIPT CLASS/Quazis JAVASCRIPT/ONE PLAYER ST VERSION/static/cssone/styleone.css",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/JAVASCRIPT CLASS/Quazis JAVASCRIPT/ONE PLAYER ST VERSION/index.html",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/JAVASCRIPT CLASS/Quazis JAVASCRIPT/ONE PLAYER ST VERSION/static/jsone/scriptone.js",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/JAVASCRIPT CLASS/Quazis JAVASCRIPT/ONE PLAYER ST VERSION/static/js/scriptone.js",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/CODEMY/PushToHeroku/projects/mysite/address_book/urls.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/CODEMY/PushToHeroku/projects/mysite/mysite/urls.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/CODEMY/PushToHeroku/projects/mysite/address_book/admin.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/CODEMY/PushToHeroku/projects/mysite/Procfile",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/CODEMY/PushToHeroku/projects/mysite/static/__init__.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/CODEMY/PushToHeroku/projects/mysite/.gitignore",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/CODEMY/PushToHeroku/projects/mysite/.env",
+		"/C/HerokuProject/HerokuFirst/address_book/templates/add_address.html",
+		"/C/HerokuProject/HerokuFirst/address_book/templates/home.html",
+		"/C/HerokuProject/HerokuFirst/address_book/templates/base.html",
+		"/C/HerokuProject/HerokuFirst/address_book/urls.py",
+		"/C/HerokuProject/HerokuFirst/HerokuFirst/wsgi.py",
+		"/C/HerokuProject/HerokuFirst/address_book/views.py",
+		"/C/HerokuProject/HerokuFirst/HerokuFirst/settings.py",
+		"/C/HerokuProject/HerokuFirst/mysite/wsgi.py",
+		"/C/HerokuProject/HerokuFirst/Procfile",
+		"/C/HerokuProject/HerokuFirst/static/__init__.py",
+		"/C/HerokuProject/HerokuFirst/address_book/migrations/__init__.py",
+		"/C/HerokuProject/HerokuFirst/.gitignore",
+		"/C/HerokuProject/HerokuFirst/.env",
+		"/C/HerokuProject/HerokuFirst/HerokuFirst/urls.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/HTML class/HTML1.html",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/HTML class/FirstProject.html",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/HTML class/trees.html",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/DJANGO CLASS/Django1/quazi_2/polls/urls.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/DJANGO CLASS/Django1/quazi_2/polls/views.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/DJANGO CLASS/Django1/quazi_2/polls/tests.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/DJANGO CLASS/Django1/quazi_2/src/settings.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/DJANGO CLASS/Django1/quazi_2/polls/models.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/DJANGO CLASS/Django1/quazi_2/polls/admin.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/DJANGO CLASS/Django1/quazi_2/polls/apps.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/DJANGO CLASS/Django1/quazi_2/src/urls.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/DJANGO CLASS/Django2/quazi_2/polls/admin.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/DJANGO CLASS/Django2/quazi_2/polls/apps.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/DJANGO CLASS/Django2/quazi_2/polls/models.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/DJANGO CLASS/Django2/quazi_2/polls/tests.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/DJANGO CLASS/Django2/quazi_2/polls/views.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/FLASK/MarysApp (Flask)/templates/calendar.html",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/FLASK/WebApp (Flask)/fourth.html",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/FLASK/WebApp (Flask)/static/styles/styles5.css",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/FLASK/WebApp (Flask)/templates/base.html",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/FLASK/WebApp (Flask)/static/styles/styles4.css",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/FLASK/WebApp (Flask)/static/styles/styles3.css",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/FLASK/WebApp (Flask)/static/styles/styles2.css",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/FLASK/WebApp (Flask)/static/styles/styles.css",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/FLASK/10FlaskTen/styles/mystyles.css",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/FLASK/8FlaskEight/base.html",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/FLASK/5FlaskFive/templates/index.html",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/FLASK/5FlaskFive/five.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/FLASK/FlaskTwo/second.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/MyHTMLFlask/templates/my.html",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/MyHTMLFlask/styles/styles.css",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/MyHTML/my.html",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/MyHTML/my_css/my.html",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/MyHTML/my_css",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/QuaziMovieApp/cp-barebone-movie-app-final-master/cp-barebone-movie-app-final-master/cp_django_barebones/urls.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/QuaziMovieApp/cp-barebone-movie-app-final-master/cp-barebone-movie-app-final-master/cp_django_barebones/wsgi.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/atltest.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/goldenstate.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/detroit.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/denver.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/dallas.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/cleveland.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/chicago.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/charlotte.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/boston.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/brooklyn.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/atlanta.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/houston.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/NBAOracle2.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/NBAOracle.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/minnesota.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/milwaukee.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/NBA Oracle/miami.py",
+		"/C/DjangoClass/my_app/static/css/my_style.css",
+		"/C/DjangoClass/my_app/todo_app/settings.py",
+		"/C/DjangoClass/my_app/todo_list/urls.py",
+		"/C/DjangoClass/my_app/todo_list/templates/about.html",
+		"/C/DjangoClass/my_app/todo_list/templates/base.html",
+		"/C/DjangoClass/my_app/todo_list/templates/home.html",
+		"/C/DjangoClass/my_app/todo_list/views.py",
+		"/C/DjangoClass/my_app/todo_app/urls.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/Button Experiment/frontend.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/Button Experiment/backend1.py",
+		"/C/Users/cjaco/OneDrive/Desktop/PythonFiles/Button Experiment/backend2.py",
+		"/C/Users/cjaco/Downloads/NBAOraclePack.py",
+		"/C/Users/cjaco/Downloads/milestokm.py",
+		"/C/Users/cjaco/Downloads/zodiacReader.py",
+		"/C/Users/cjaco/Downloads/APIClass/apiBasic.py",
+		"/C/Users/cjaco/Downloads/APIClass/miamiTest.py",
+		"/C/Users/cjaco/Downloads/worddwntxt.py",
+		"/C/Users/cjaco/Downloads/listaprint1.py",
+		"/C/Users/cjaco/Downloads/APIClass/getiss.py",
+		"/C/Users/cjaco/Downloads/submittaldetailsform.py",
+		"/C/Users/cjaco/Downloads/funcButton.py",
+		"/C/django/django_todo_app/todo/todo_list/urls.py",
+		"/C/django/django_todo_app/todo/todo_list/templates/base.html",
+		"/C/django/django_todo_app/todo/todo/settings.py",
+		"/C/django/django_todo_app/todo/todo_list/models.py",
+		"/C/django/django_todo_app/todo/todo_list/forms.py",
+		"/C/django/django_todo_app/todo/todo_list/templates/home.html",
+		"/C/django/django_todo_app/todo/todo_list/views.py",
+		"/C/Users/cjaco/Downloads/Django Start/mysite/polls/views.py",
+		"/C/Users/cjaco/Downloads/Django Start/mysite/mysite/urls.py",
+		"/C/Users/cjaco/Downloads/Django Start/mysite/polls/urls.py",
+		"/C/django/django_todo_app/todo/todo/urls.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blackjack-site-to-heroku.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
